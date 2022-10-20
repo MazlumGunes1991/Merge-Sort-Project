@@ -20,3 +20,5 @@
 ### Big-O gösterimini yazınız.
 
 - O(n.log(n)) = O(6.log(6))
+
+[Patika.dev](https://app.patika.dev/)
